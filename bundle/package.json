@@ -1,8 +1,8 @@
 {
-	"name": "fosscord/server",
+	"name": "@fosscord/server",
 	"version": "1.0.0",
 	"description": "",
-	"main": "scripts/build.js",
+	"main": "scripts/start.ts",
 	"scripts": {
 		"setup": "node scripts/install.js && npm install --omit optional && ts-patch install -s && patch-package --patch-dir ../api/patches/ && npm run build",
 		"depclean": "node scripts/depclean.js",
