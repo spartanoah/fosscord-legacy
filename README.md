@@ -13,7 +13,7 @@ This repository contains:
 -   [Admin Dashboard](/dashboard)
 
 ## Setup
-* because of how the legacy version is built these instructions may not work *
+*note that because of how the legacy version is built these instructions may not work properly*
 
 ```
 #Download fosscord-legacy
