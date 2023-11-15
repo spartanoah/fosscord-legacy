@@ -14,6 +14,7 @@ This repository contains:
 
 ## Setup
 *note that because of how the legacy version is built these instructions may not work properly*
+*you might have to mess around in the bundle directory for setup*
 
 ```
 #Download fosscord-legacy
