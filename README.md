@@ -14,4 +14,17 @@ This repository contains:
 
 ## Setup
 
--   will be added soon
+# Download Spacebar
+git clone https://github.com/spartanoah/fosscord-legacy.git
+
+# Navigate to project root
+cd fosscord-legacy
+
+# Install javascript packages
+npm i
+
+# Build and generate schema. Separately, they are `build` and `generate:schema`.
+npm run setup
+
+# Start the bundle server ( API, CDN, Gateway in one )
+npm run start
