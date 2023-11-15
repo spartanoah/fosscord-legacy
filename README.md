@@ -15,7 +15,7 @@ This repository contains:
 ## Setup
 
 ```
-Download Spacebar
+Download fosscord-legacy
 git clone https://github.com/spartanoah/fosscord-legacy.git
 
 Navigate to project root 
