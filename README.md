@@ -13,20 +13,21 @@ This repository contains:
 -   [Admin Dashboard](/dashboard)
 
 ## Setup
+* because of how the legacy version is built these instructions may not work *
 
 ```
-Download fosscord-legacy
+#Download fosscord-legacy
 git clone https://github.com/spartanoah/fosscord-legacy.git
 
-Navigate to project root 
+#Navigate to project root 
 cd fosscord-legacy
 
-Install javascript packages
+#Install javascript packages
 npm i
 
-Build and generate schema. Separately, they are `build` and `generate:schema`.
+#Build and generate schema. Separately, they are `build` and `generate:schema`.
 npm run setup
 
-Start the bundle server ( API, CDN, Gateway in one )
+#Start the bundle server ( API, CDN, Gateway in one )
 npm run start
 ```
