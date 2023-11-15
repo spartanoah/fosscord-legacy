@@ -1,6 +1,6 @@
 <h1 align="center">Fosscord Server</h1>
 
-## [About]
+## About
 
 This repository contains:
 
@@ -12,6 +12,6 @@ This repository contains:
 -   [WebRTC Server](/webrtc)
 -   [Admin Dashboard](/dashboard)
 -   
-## [Setup]
+## Setup
 
 -   will be added soon
