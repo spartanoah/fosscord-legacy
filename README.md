@@ -1,4 +1,4 @@
-<h1 align="center">Fosscord Server</h1>
+<h1 align="center">Legacy Fosscord Server</h1>
 
 ## About
 
@@ -11,7 +11,7 @@ This repository contains:
 -   [RTC Server](/rtc)
 -   [WebRTC Server](/webrtc)
 -   [Admin Dashboard](/dashboard)
--   
+
 ## Setup
 
 -   will be added soon
