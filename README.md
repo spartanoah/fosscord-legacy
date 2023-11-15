@@ -14,10 +14,11 @@ This repository contains:
 
 ## Setup
 
+```
 Download Spacebar
 git clone https://github.com/spartanoah/fosscord-legacy.git
 
-Navigate to project root
+Navigate to project root 
 cd fosscord-legacy
 
 Install javascript packages
@@ -28,3 +29,4 @@ npm run setup
 
 Start the bundle server ( API, CDN, Gateway in one )
 npm run start
+```
