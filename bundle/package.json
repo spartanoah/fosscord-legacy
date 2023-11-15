@@ -16,15 +16,15 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/fosscord/fosscord-server.git"
+		"url": "git+https://github.com/spartanoah/fosscord-legacy.git"
 	},
 	"keywords": [],
 	"author": "Fosscord",
 	"license": "AGPL-3.0-only",
 	"bugs": {
-		"url": "https://github.com/fosscord/fosscord-server/issues"
+		"url": "https://github.com/spartanoah/fosscord-legacy/issues"
 	},
-	"homepage": "https://fosscord.com",
+	"homepage": "https://github.com/spartanoah/fosscord-legacy",
 	"devDependencies": {
 		"@babel/core": "^7.15.5",
 		"@babel/preset-env": "^7.15.8",
