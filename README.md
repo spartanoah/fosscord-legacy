@@ -1,5 +1,6 @@
 <h1 align="center">Legacy Fosscord Server</h1>
 opencollective link doesnt even work ¯\_(ツ)_/¯
+
 ## About
 
 This repository contains:
