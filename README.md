@@ -33,3 +33,5 @@ npm run setup
 #Start the bundle server ( API, CDN, Gateway in one )
 npm run start
 ```
+
+## I WILL NOT BE MAINTAINING THIS VERSION OF FOSSCORD AND IF YOU WANT A MAINTAINED VERSION GO TO THE LEGACY BRANCH ON THE spacebarchat/server REPO.
